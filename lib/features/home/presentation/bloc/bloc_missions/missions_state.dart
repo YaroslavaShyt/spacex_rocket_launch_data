@@ -19,7 +19,7 @@ class MissionsSuccess extends MissionsState {
 }
 
 class MissionsError extends MissionsState {
-  final String message;
+  final AppError message;
 
   const MissionsError(this.message);
 
