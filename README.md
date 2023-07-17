@@ -2,7 +2,7 @@
 An application for seeing data about SpaceX rockets and their flights.
 
 ### Functionality
-- See rockets' images, titles
+- See rockets' images in slider
 - Swipe carousel slider for next rocket in queue
 
 ### Technologies
